@@ -19,12 +19,7 @@ This repository brings together a small set of Jupyter notebooks for exploring h
 ## Demo preview
 The demo video is available as a downloadable asset from the release page, but GitHub does not render the AVI directly in the README. To give you a quick visual preview, the project includes a lightweight animated preview section below:
 
-![Rubik Cube Solver Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 <img width="640" height="480" alt="OUTPUT5" src="https://github.com/user-attachments/assets/d54efb51-14e1-4425-9d52-c3aa55e605fa" />
-
-
-If you want the full original footage, download the AVI from the release page:
-- [Download demo video (AVI)](https://github.com/yousefhamdan/-Rubik-Cube-Solver/releases/download/v1.0.0/OUTPUT5.avi)
 
 ## Getting started
 1. Open the notebooks in Jupyter Notebook or Jupyter Lab.
